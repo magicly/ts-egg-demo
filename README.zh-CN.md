@@ -12,6 +12,7 @@ Egg with TypeScript demo.
 
 ```bash
 $ npm i
+$ npm run tsc:w
 $ npm run dev
 $ open http://localhost:7001/
 ```
